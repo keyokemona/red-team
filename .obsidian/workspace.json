@@ -1,34 +1,24 @@
 {
   "main": {
-    "id": "02a7887ea51e790c",
+    "id": "f41e3d0b6e461f0e",
     "type": "split",
     "children": [
       {
-        "id": "549d6d18cd865cbf",
+        "id": "6bd007267998470e",
         "type": "tabs",
         "children": [
           {
-            "id": "d384bc09b9609131",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "455eac6daaf7eea7",
+            "id": "616c7d46638fb988",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Pré-requisitos/01 - Criação de repositório.md",
+                "file": "03 - Bughunting/00 - Placeholder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Criação de repositório"
+              "title": "00 - Placeholder"
             }
           }
         ]
@@ -37,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fddc177bfb8ac95f",
+    "id": "bfe9b4938f858159",
     "type": "split",
     "children": [
       {
-        "id": "f19fffd9ac76d36e",
+        "id": "b05d0b3ea7d20db5",
         "type": "tabs",
         "children": [
           {
-            "id": "012946de3ed090d3",
+            "id": "53a4d66e97987cef",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -54,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
-            "id": "5d865255e449ae15",
+            "id": "46e9097dc4bd18fd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +65,7 @@
             }
           },
           {
-            "id": "58cb313d42ca4f0c",
+            "id": "83788298fc87da96",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,30 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "9ce636c6a8f80389",
+    "id": "f924d62fb10670a5",
     "type": "split",
     "children": [
       {
-        "id": "d393e0829a254253",
+        "id": "714cbbf762bf0a22",
         "type": "tabs",
         "children": [
           {
-            "id": "ce33bbb73153f148",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "e956c36b5f04d7e8",
+            "id": "eff2d1bfffa91f77",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relatórios Automatizados - CRWD/TAREFAS DO PROJETO.md",
+                "file": "03 - Bughunting/00 - Placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para TAREFAS DO PROJETO"
+              "title": "Links inversos para 00 - Placeholder"
             }
           },
           {
-            "id": "cbcd5f06766508d7",
+            "id": "9af55005c5a45af1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relatórios Automatizados - CRWD/TAREFAS DO PROJETO.md",
+                "file": "03 - Bughunting/00 - Placeholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para TAREFAS DO PROJETO"
+              "title": "Links de saída para 00 - Placeholder"
             }
           },
           {
-            "id": "141b8aa7888ddfab",
+            "id": "28799bc811a1dad1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,76 +137,62 @@
             }
           },
           {
-            "id": "9a843e71d290966c",
+            "id": "2868e188aa39dbd0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relatórios Automatizados - CRWD/TAREFAS DO PROJETO.md",
+                "file": "03 - Bughunting/00 - Placeholder.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de TAREFAS DO PROJETO"
+              "title": "Sumário de 00 - Placeholder"
+            }
+          },
+          {
+            "id": "6cda47e3a814c4a5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-kanban:Criar um novo quadro": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d384bc09b9609131",
+  "active": "53a4d66e97987cef",
   "lastOpenFiles": [
-    "01 - Pré-requisitos/01 - Criação de repositório.md",
-    "01 - Pré-requisitos/04 - Obtenção de referências.md",
-    "01 - Pré-requisitos/02 - Listagem das APIs.md",
-    "Tablet.md",
-    "TAREFAS DO PROJETO.md",
-    "Relatórios Automatizados - CRWD/TAREFAS DO PROJETO.md",
-    "Relatórios Automatizados - CRWD/03 - Entrega/02 - Realizar a revisão junto aos coordenadores.md",
-    "Relatórios Automatizados - CRWD/01 - Pré-requisitos/02 - Listagem das APIs.md",
-    "Relatórios Automatizados - CRWD/01 - Pré-requisitos/01 - Criação de repositório.md",
-    "Relatórios Automatizados - CRWD/01 - Pré-requisitos/Kanban sem título.md",
-    "Sem título.canvas",
-    "Relatórios Automatizados - CRWD/03 - Entrega/04 - Início do on-going.md",
-    "Relatórios Automatizados - CRWD/03 - Entrega/03 - Apresentar o projeto desenvolvido aos sócios, gerência e coordenação.md",
-    "Relatórios Automatizados - CRWD/03 - Entrega/01 - Iniciar a produção da documentação do projeto.md",
-    "Relatórios Automatizados - CRWD/02 - Execução/03 - Criar o modelo dos relatórios.md",
-    "Relatórios Automatizados - CRWD/02 - Execução/04 - Homologar o modelo criado com qualquer ambiente da Defcon1.md",
-    "Relatórios Automatizados - CRWD/02 - Execução/02 - Determinar o conteúdo dos relatórios com base nas referências obtidas.md",
-    "Relatórios Automatizados - CRWD/02 - Execução/01 - Desenvolver scripts para a coleta e armazenamento de dados relacionados ao CRWD.md",
-    "Relatórios Automatizados - CRWD/01 - Pré-requisitos/04 - Obtenção de referências.md",
-    "Relatórios Automatizados - CRWD/01 - Pré-requisitos/03 - Preparação do ambiente.md",
-    "Relatórios Automatizados - CRWD/03 - Entrega",
-    "Relatórios Automatizados - CRWD/02 - Execução",
-    "Relatórios Automatizados - CRWD/01 - Pré-requisitos/03 - Preparar o ambiente",
-    "Relatórios Automatizados - CRWD/Pré-requisitos.md",
-    "Relatórios Automatizados - CRWD/01 - Pré-requisitos",
-    "Relatórios Automatizados - CRWD/Untitled.md",
-    "Relatórios Automatizados - CRWD/test.md",
-    "cymulate-powerbi/REPORTS/DE - Data Exfiltration/01 - PROD/DE - 03 - Assessments Details.md",
-    "Relatórios Automatizados - CRWD",
-    "cymulate-powerbi/REPORTS/DE - Data Exfiltration/01 - PROD/DE - 02 - Assessments Summary.md",
-    "cymulate-powerbi/REPORTS/DE - Data Exfiltration/01 - PROD/DE - 01 - Assessments History.md",
-    "cymulate-powerbi/REPORTS/DE - Data Exfiltration/01 - PROD/Sem título 3.md",
-    "cymulate-powerbi/REPORTS/DE - Data Exfiltration/01 - PROD",
-    "cymulate-powerbi/REPORTS/DE - Data Exfiltration/00 - RAW",
-    "cymulate-powerbi/REPORTS/DE - Data Exfiltration",
-    "cymulate-powerbi/REPORTS/EDR - Endpoint Security/01 - PROD",
-    "cymulate-powerbi/REPORTS/EDR - Endpoint Security/00 - RAW"
+    "02 - Web App Exploiting/00 - Placeholder.md",
+    "00 - References/00 - Placeholder.md",
+    "01 - Pentesting/Untitled.md",
+    "01 - Pentesting/Windows/01 - Obter chave de ativação do Windows.md",
+    "01 - Pentesting/Windows",
+    "test.md",
+    "03 - Bughunting/00 - Placeholder.md",
+    "03 - Bughunting",
+    "02 - Web App Exploiting",
+    "01 - Pentesting",
+    "00 - References",
+    "obsidian-config"
   ]
 }

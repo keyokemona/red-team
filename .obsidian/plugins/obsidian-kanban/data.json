@@ -1,0 +1,59 @@
+{
+  "show-checkboxes": true,
+  "new-line-trigger": "enter",
+  "tag-colors": [
+    {
+      "tagKey": "#low",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(47, 255, 0, 1)"
+    },
+    {
+      "tagKey": "#medium",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(251, 255, 0, 1)"
+    },
+    {
+      "tagKey": "#high",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(255, 0, 0, 1)"
+    },
+    {
+      "tagKey": "#stuck",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(120, 0, 255, 1)"
+    }
+  ],
+  "tag-sort": [
+    {
+      "tag": "#stuck"
+    },
+    {
+      "tag": "#high"
+    },
+    {
+      "tag": "#medium"
+    },
+    {
+      "tag": "#low"
+    }
+  ],
+  "move-dates": true,
+  "show-relative-date": true,
+  "date-colors": [
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isAfter": true,
+      "backgroundColor": "rgba(255, 0, 0, 1)",
+      "color": "rgba(255, 255, 255, 1)"
+    },
+    {
+      "distance": 3,
+      "unit": "days",
+      "direction": "before",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(255, 237, 0, 1)"
+    }
+  ]
+}

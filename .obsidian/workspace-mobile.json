@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "de39bb6798f52c65",
+    "type": "split",
+    "children": [
+      {
+        "id": "0258ef60b1b8721b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b2aa2815f3dc836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - References/test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          },
+          {
+            "id": "d6f77b63dbc3c1f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Pentesting/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "56052a911ec244ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Bughunting/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "2467e0558f0f6689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Web App Exploiting/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84aa58308fa26537",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2811903261e84eea",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "0ac4d30efb46caff",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Procurar"
+        }
+      },
+      {
+        "id": "ea31de1e0bb0b69c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "483e44245c1ccf6f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d5e17328a2bc4d4b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "23bc71ce5dba6615",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "To Do/2024/Dezembro/18/18-12.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "039de82d638f7ea7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "To Do/2024/Dezembro/18/18-12.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Links de saída"
+        }
+      },
+      {
+        "id": "3e69169b18a87b81",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "To Do/2024/Dezembro/18/18-12.md"
+          },
+          "icon": "lucide-list",
+          "title": "Sumário"
+        }
+      },
+      {
+        "id": "624122351a1d0d9e",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2467e0558f0f6689",
+  "lastOpenFiles": [
+    "03 - Bughunting/Untitled 1.md",
+    "02 - Web App Exploiting/Untitled.md",
+    "01 - Pentesting/Untitled.md",
+    "00 - References/test.md",
+    "red-team",
+    "03 - Bughunting",
+    "02 - Web App Exploiting",
+    "01 - Pentesting",
+    "00 - References",
+    "00 - Notas do projeto/Conteúdo do relatório.md",
+    "00 - Notas do projeto/Escopo do projeto.md",
+    "00 - Notas do projeto/Repositório do projeto.md",
+    "00 - Notas do projeto/Schema das atividades (raw) - Obsidian.md",
+    "00 - Notas do projeto/Modelo do Figma.md",
+    "02 - Execução/01 - Desenvolver scripts para a coleta e armazenamento de dados relacionados ao CRWD.md",
+    "TAREFAS DO PROJETO.md",
+    "conflict-files-obsidian-git.md",
+    "00 - Notas do projeto",
+    "01 - Pré-requisitos/03 - Preparação do ambiente.md",
+    "03 - Entrega/01 - Iniciar a produção da documentação do projeto.md",
+    "03 - Entrega/02 - Realizar a revisão junto aos coordenadores.md",
+    "03 - Entrega/03 - Apresentar o projeto desenvolvido aos sócios, gerência e coordenação.md",
+    "02 - Execução/04 - Homologar o modelo estabelecido.md",
+    "02 - Execução/03 - Desenvolver scripts para a montagem automática do relatório.md",
+    "02 - Execução/02 - Criar o modelo dos relatórios.md",
+    "03 - Criar o modelo dos relatórios.md",
+    "01 - Pré-requisitos/04 - Obtenção de referências.md",
+    "01 - Pré-requisitos/02 - Listagem das APIs.md",
+    "01 - Pré-requisitos/01 - Criação de repositório.md",
+    "README.md",
+    "02 - Execução/03 - Criar o modelo dos relatórios.md",
+    "Tablet.md",
+    "03 - Entrega",
+    "02 - Execução",
+    "01 - Pré-requisitos",
+    "/03 - Entrega"
+  ]
+}

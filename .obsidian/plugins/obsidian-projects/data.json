@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "Ordem": {
+          "options": [],
+          "richText": false
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Relatórios Automatizados - CRWD",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "Ordem",
+              "name"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b38a9634-38c6-46df-b588-9436f757cb55",
+          "name": "PROJETO",
+          "type": "table"
+        }
+      ],
+      "id": "98a74590-9f90-4a04-b593-9c8a28719e4b",
+      "name": "CRWD"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

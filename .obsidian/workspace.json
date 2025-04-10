@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Bughunting/00 - Placeholder.md",
+                "file": "01 - Pentesting/Windows/01 - Obter chave de ativação do Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Placeholder"
+              "title": "01 - Obter chave de ativação do Windows"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Bughunting/00 - Placeholder.md",
+                "file": "01 - Pentesting/Windows/01 - Obter chave de ativação do Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 00 - Placeholder"
+              "title": "Links inversos para 01 - Obter chave de ativação do Windows"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Bughunting/00 - Placeholder.md",
+                "file": "01 - Pentesting/Windows/01 - Obter chave de ativação do Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 00 - Placeholder"
+              "title": "Links de saída para 01 - Obter chave de ativação do Windows"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Bughunting/00 - Placeholder.md",
+                "file": "01 - Pentesting/Windows/01 - Obter chave de ativação do Windows.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 00 - Placeholder"
+              "title": "Sumário de 01 - Obter chave de ativação do Windows"
             }
           },
           {
@@ -180,15 +180,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53a4d66e97987cef",
+  "active": "616c7d46638fb988",
   "lastOpenFiles": [
+    "01 - Pentesting/Windows/Pasted image 20250409224907.png",
+    "01 - Pentesting/Windows/01 - Attachments/Pasted image 20250409224725.png",
+    "01 - Pentesting/Windows/01 - Attachments/Pasted image 20250409224639.png",
+    "01 - Pentesting/Windows/01 - Attachments",
+    "01 - Pentesting/Windows/01 - Obter chave de ativação do Windows.md",
+    "03 - Bughunting/00 - Placeholder.md",
     "02 - Web App Exploiting/00 - Placeholder.md",
     "00 - References/00 - Placeholder.md",
     "01 - Pentesting/Untitled.md",
-    "01 - Pentesting/Windows/01 - Obter chave de ativação do Windows.md",
     "01 - Pentesting/Windows",
     "test.md",
-    "03 - Bughunting/00 - Placeholder.md",
     "03 - Bughunting",
     "02 - Web App Exploiting",
     "01 - Pentesting",

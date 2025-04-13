@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Web App Exploiting/01 - PortSwigger - WebSecurity Academy/01 - Server-side vulnerabilities.md",
+                "file": "02 - Web App Exploiting/00 - Links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Server-side vulnerabilities"
+              "title": "00 - Links"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Web App Exploiting/01 - PortSwigger - WebSecurity Academy/01 - Server-side vulnerabilities.md",
+                "file": "02 - Web App Exploiting/00 - Links.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 01 - Server-side vulnerabilities"
+              "title": "Sumário de 00 - Links"
             }
           }
         ],
@@ -180,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "660f43624a32c44a",
+  "active": "6cda47e3a814c4a5",
   "lastOpenFiles": [
-    "01 - Pentesting/Windows/01 - Obter chave de ativação do Windows utilizada no SO.md",
     "02 - Web App Exploiting/01 - PortSwigger - WebSecurity Academy/01 - Server-side vulnerabilities.md",
+    "01 - Pentesting/Windows/01 - Obter chave de ativação do Windows utilizada no SO.md",
     "02 - Web App Exploiting/01 - PortSwigger - WebSecurity Academy/00 - Attachments",
     "02 - Web App Exploiting/01 - PortSwigger - WebSecurity Academy/00 - Attachments/Pasted image 20250413105328.png",
     "02 - Web App Exploiting/00 - Links.md",

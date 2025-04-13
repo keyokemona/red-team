@@ -145,6 +145,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "600e3abeb167cacf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - Web App Exploiting/01 - PortSwigger - WebSecurity Academy/01 - Server-side vulnerabilities.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 01 - Server-side vulnerabilities"
+            }
           }
         ],
         "currentTab": 3
@@ -167,17 +182,19 @@
   },
   "active": "660f43624a32c44a",
   "lastOpenFiles": [
-    "02 - Web App Exploiting/00 - Links.md",
+    "01 - Pentesting/Windows/01 - Obter chave de ativação do Windows utilizada no SO.md",
     "02 - Web App Exploiting/01 - PortSwigger - WebSecurity Academy/01 - Server-side vulnerabilities.md",
+    "02 - Web App Exploiting/01 - PortSwigger - WebSecurity Academy/00 - Attachments",
+    "02 - Web App Exploiting/01 - PortSwigger - WebSecurity Academy/00 - Attachments/Pasted image 20250413105328.png",
+    "02 - Web App Exploiting/00 - Links.md",
     "02 - Web App Exploiting/01 - PortSwigger - WebSecurity Academy",
     "01 - Pentesting/Windows/02 - Chaves de Ativação.md",
     "01 - Pentesting/Livro - Testes de Invasão (Georgia Weidman)/00 - Introdução aos testes de invasão.md",
     "01 - Pentesting/Livro - Testes de Invasão (Georgia Weidman)",
-    "01 - Pentesting/Windows/01 - Obter chave de ativação do Windows utilizada no SO.md",
-    "01 - Pentesting/Windows/01 - Attachments/Pasted image 20250409224907.png",
-    "01 - Pentesting/Windows/01 - Attachments/Pasted image 20250409224725.png",
-    "01 - Pentesting/Windows/01 - Attachments/Pasted image 20250409224639.png",
-    "01 - Pentesting/Windows/01 - Attachments",
+    "01 - Pentesting/Windows/00 - Attachments/Pasted image 20250409224907.png",
+    "01 - Pentesting/Windows/00 - Attachments/Pasted image 20250409224725.png",
+    "01 - Pentesting/Windows/00 - Attachments/Pasted image 20250409224639.png",
+    "01 - Pentesting/Windows/00 - Attachments",
     "03 - Bughunting/00 - Placeholder.md",
     "00 - References/00 - Placeholder.md",
     "01 - Pentesting/Untitled.md",

@@ -11,14 +11,14 @@
             "id": "660f43624a32c44a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "02 - Web App Exploiting/00 - Links.md",
-                "mode": "source",
-                "source": false
+                "aFile": "01 - Pentesting/Windows/02 - Chaves de Ativação.md",
+                "bFile": "01 - Pentesting/Windows/02 - Chaves de Ativação.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "00 - Links"
+              "icon": "diff",
+              "title": "Diff: 02 - Chaves de Ativação"
             }
           }
         ]
@@ -182,13 +182,13 @@
   },
   "active": "660f43624a32c44a",
   "lastOpenFiles": [
-    "02 - Web App Exploiting/01 - PortSwigger - WebSecurity Academy/01 - Server-side vulnerabilities.md",
+    "01 - Pentesting/Windows/02 - Chaves de Ativação.md",
     "01 - Pentesting/Windows/01 - Obter chave de ativação do Windows utilizada no SO.md",
+    "02 - Web App Exploiting/00 - Links.md",
+    "02 - Web App Exploiting/01 - PortSwigger - WebSecurity Academy/01 - Server-side vulnerabilities.md",
     "02 - Web App Exploiting/01 - PortSwigger - WebSecurity Academy/00 - Attachments",
     "02 - Web App Exploiting/01 - PortSwigger - WebSecurity Academy/00 - Attachments/Pasted image 20250413105328.png",
-    "02 - Web App Exploiting/00 - Links.md",
     "02 - Web App Exploiting/01 - PortSwigger - WebSecurity Academy",
-    "01 - Pentesting/Windows/02 - Chaves de Ativação.md",
     "01 - Pentesting/Livro - Testes de Invasão (Georgia Weidman)/00 - Introdução aos testes de invasão.md",
     "01 - Pentesting/Livro - Testes de Invasão (Georgia Weidman)",
     "01 - Pentesting/Windows/00 - Attachments/Pasted image 20250409224907.png",

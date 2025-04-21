@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "16a9e662a34ecdc0",
+        "id": "74909d37bc278bc8",
         "type": "tabs",
         "children": [
           {
-            "id": "660f43624a32c44a",
+            "id": "c40526178b665d71",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "01 - Pentesting/Windows/02 - Chaves de Ativação.md",
-                "bFile": "01 - Pentesting/Windows/02 - Chaves de Ativação.md",
-                "aRef": ""
+                "file": "04 - Linguagens de Programação/01 - C/01 - Introdução sobre a Linguagem C.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 02 - Chaves de Ativação"
+              "icon": "lucide-file",
+              "title": "01 - Introdução sobre a Linguagem C"
             }
           }
         ]
@@ -177,11 +177,21 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-kanban:Criar um novo quadro": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "660f43624a32c44a",
+  "active": "c40526178b665d71",
   "lastOpenFiles": [
+    "04 - Linguagens de Programação/01 - C/02 - Estrutura da Linguagem C.md",
+    "04 - Linguagens de Programação/01 - C/01 - Introdução sobre a Linguagem C.md",
+    "04 - Linguagens de Programação/01 - C/00 - Attachments",
+    "04 - Linguagens de Programação/01 - C/00 - Attachments/Pasted image 20250420220204.png",
+    "04 - Linguagens de Programação/01 - C/test.md",
+    "04 - Linguagens de Programação/Sem título.canvas",
+    "04 - Linguagens de Programação/01 - C",
+    "04 - Linguagens de Programação",
     "01 - Pentesting/Windows/02 - Chaves de Ativação.md",
     "01 - Pentesting/Windows/01 - Obter chave de ativação do Windows utilizada no SO.md",
     "02 - Web App Exploiting/00 - Links.md",
@@ -201,9 +211,6 @@
     "01 - Pentesting/Windows",
     "test.md",
     "03 - Bughunting",
-    "02 - Web App Exploiting",
-    "01 - Pentesting",
-    "00 - References",
-    "obsidian-config"
+    "02 - Web App Exploiting"
   ]
 }

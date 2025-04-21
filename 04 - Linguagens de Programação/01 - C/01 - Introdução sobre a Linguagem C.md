@@ -1,7 +1,6 @@
 ---
 cards-deck: 04 - Linguagens de Programação::01 - C
 ---
-
 # Variáveis
 #card
 As variáveis são locais de armazenamento em memória onde os dados podem ser armazenados e manipulados durante a execução de um programa.
@@ -71,5 +70,104 @@ O resultado da execução deste programa seria:
 > ```
 
 
-**CONTINUAR EM:**
-https://embarcados.com.br/linguagem-c-guia-completo/#Introducao-sobre-a-linguagem-C:~:text=execu%C3%A7%C3%A3o%20deste%20programa%3A-,Operadores%C2%A0,-Os%20operadores%20s%C3%A3o
+# Operadores
+Os operadores são símbolos especiais utilizados para realizar operações matemáticas e lógicas.
+
+## Operadores aritméticos
+Os operadores aritméticos são usados para realizar operações matemáticas básicas em C, como adição, subtração, multiplicação e divisão.
+
+| Operador | Operação        |
+| :------: | --------------- |
+|    +     | soma            |
+|    -     | subtração       |
+|    *     | multiplicação   |
+|    /     | divisão inteira |
+|    %     | módulo          |
+|    ++    | incremento      |
+|    --    | decremento      |
+
+```c
+#include <stdio.h>
+
+int main(void) {
+	int a = 5, b = 3;
+	
+	int soma = a + b;
+	printf("soma de %d e %d é %d\n", a, b, soma);
+	
+	int subtracao = a - b;
+	printf("subtracao de %d e %d é %d\n", a, b, subtracao);
+	
+	int mult = a * b;
+	printf("multiplicação de %d e %d é %d\n", a, b, mult);
+	
+	int divisao = a / b;
+	printf("divisao de %d e %d é %d\n", a, b, divisao);
+	
+	int mod = a % b;
+	printf("resto da divisão de %d e %d é %d\n", a, b, mod);
+	   
+	a++;
+	printf("incremento: %d\n", a);
+	   
+	b--;
+	printf("decremento: %d\n", b);
+	
+	return 0;
+}
+```
+
+Resultado dos exemplos:
+![[Pasted image 20250421165922.png]]
+
+## Operadores relacionais
+Os operadores relacionais são usados para comparar dois valores em C e produzir um valor lógico (verdadeiro - 1, ou falso - 0) como resultado.
+
+| Operador | Operação       |
+| -------- | -------------- |
+| ==       | igual          |
+| !=       | diferente      |
+| >        | maior do que   |
+| <        | menor do que   |
+| >=       | maior ou igual |
+| <=       | menor ou igual |
+
+```c
+#include <stdio.h>
+
+int main(void) {
+	int a = 5, b = 3;
+	//Igualdade
+	int resultado = (a == b);
+	printf("%d == %d é %d\n", a, b, resultado);
+	//Diferença
+	resultado = (a != b);
+	printf("%d != %d é %d\n", a, b, resultado);
+	//Maior
+	resultado = (a > b);
+	printf("%d > %d é %d\n", a, b, resultado);
+	//Menor
+	resultado = (a < b);
+	printf("%d < %d é %d\n", a, b, resultado);
+	//Maior ou igual
+	resultado = (a >= b);
+	printf("%d >= %d é %d\n", a, b, resultado);
+	//Menor ou Igual
+	resultado = (a <= b);
+	printf("%d <= %d é %d\n", a, b, resultado);
+	
+	return 0;
+}
+```
+
+Resultado dos exemplos:
+![[Pasted image 20250421191347.png]]
+
+## Operadores lógicos
+Os operadores lógicos são usados para combinar expressões booleanas em C e produzir um valor lógico (verdadeiro ou falso) como resultado.
+
+| Operador | Operação |
+| -------- | -------- |
+|          |          |
+**continuar:**
+https://embarcados.com.br/linguagem-c-guia-completo/#Introducao-sobre-a-linguagem-C:~:text=Resultado-,Operadores%20l%C3%B3gicos,-Os%20operadores%20l%C3%B3gicos

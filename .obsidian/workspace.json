@@ -178,7 +178,6 @@
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-kanban:Criar um novo quadro": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "flashcards-obsidian:Generate flashcards": false
     }
   },
@@ -186,6 +185,8 @@
   "lastOpenFiles": [
     "04 - Linguagens de Programação/01 - C/02 - Estrutura da Linguagem C.md",
     "04 - Linguagens de Programação/01 - C/01 - Introdução sobre a Linguagem C.md",
+    "04 - Linguagens de Programação/01 - C/00 - Attachments/Pasted image 20250421191347.png",
+    "04 - Linguagens de Programação/01 - C/00 - Attachments/Pasted image 20250421165922.png",
     "04 - Linguagens de Programação/01 - C/00 - Attachments",
     "04 - Linguagens de Programação/01 - C/00 - Attachments/Pasted image 20250420220204.png",
     "04 - Linguagens de Programação/01 - C/test.md",
